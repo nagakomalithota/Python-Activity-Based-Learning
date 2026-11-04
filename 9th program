@@ -1,0 +1,8 @@
+budget=float(input("Budget: ")); n=int(input("Expenses: ")); expenses=[]
+for _ in range(n):
+ cat=input("Category: ");
+ cur=input("Currency: "); 
+ amount=float(input("Amount: ")); 
+ rate=float(input("Home currency per unit:total=sum(x[1] for x in expenses);
+ cats=[(cat,sum(x[1] for x in expenses if x[0]==cat)) for cat,cost in expenses];
+ print("T
