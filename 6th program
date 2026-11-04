@@ -1,0 +1,6 @@
+dist=float(input("Distance km: ")); n=int(input("Passengers: ")); 
+base=1.2*min(dist,100)+max(0,min(dist-100,400))+max(0,dist-for _ in range(n):
+ age=int(input("Age: ")); 
+ cls=input("Class Sleeper/Chair/AC: ").lower();
+ can=input("Cancelled y/n: ").lower(); 
+ f={"sleeper":1print("Fare calculation complete")
